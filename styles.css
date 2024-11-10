@@ -13,7 +13,7 @@ body {
 }
 
 header {
-    background-color: #d9f4d9; /* Color verde pastel suave */
+    background-color: #d9f4d9;
     border-bottom: 2px solid #ddd;
     padding: 20px;
     display: flex;
@@ -26,7 +26,7 @@ header {
 .header-content {
     display: flex;
     align-items: center;
-    justify-content: center; /* Centra el contenido en el contenedor */
+    justify-content: center; 
     gap: 20px;
 }
 
@@ -108,7 +108,7 @@ footer {
 }
 
 .tag {
-    background-color: #d9f4d9; /* Verde pastel para las etiquetas */
+    background-color: #d9f4d9; 
     color: #2c3e50;
     padding: 5px 10px;
     border-radius: 15px;
@@ -117,8 +117,8 @@ footer {
 }
 
 #contact .icon {
-    width: 20px; /* Ajusta el tamaño del icono */
+    width: 20px; 
     height: 20px;
-    margin-right: 8px; /* Espacio entre el icono y el texto */
+    margin-right: 8px; 
     vertical-align: middle;
 }
